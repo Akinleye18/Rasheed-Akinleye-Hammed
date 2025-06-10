@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Akinleye18
+- 👋 Hi, I’m Rasheed Akinleye Hammed
 - 👀 I’m interested in spatial and ecological modelling, GIS/Remote Sensing, forest ecology, sustainable forest management, urban forestry, forest restoration, climate change adaptation and mitigation, as well as forest disturbances.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me reach via email: hammmedrasheedakinleye@gmail.com
+- 📫 How to reach me: reach via email: hammmedrasheedakinleye@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: During my free time, I enjoy travelling, playing football, hiking, visiting museums, and exploring the countryside.
 
